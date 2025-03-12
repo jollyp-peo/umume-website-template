@@ -478,8 +478,8 @@ header{
 .contact-email{
   background-color: #09122C;
   width: 100%;
-  padding: .3em;
-  border-radius: 5px;
+  padding: .5em;
+  border-radius: 8px;
   order: 1;
 }
 .con-input{
@@ -550,6 +550,7 @@ textarea {
   
 }
 .foot{
+  margin-top: 1em;
   width: 100%;
   max-width: 1400px;
   background-color: #09122C;
