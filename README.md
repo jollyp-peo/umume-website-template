@@ -10,6 +10,7 @@ UMUME is a beautifully crafted website template that features stunning gradient 
 - **Interactive Navigation Bar**: Includes a hamburger menu for better usability.
 - **Copy-to-Clipboard Feature**: Users can click on color codes to copy them.
 - **Social Media Integration**: Links to major social platforms.
+- **Form submission**: Accept form submissions.
 
 ## Technologies Used
 - **HTML5**: Structure and content.
