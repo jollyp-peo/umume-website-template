@@ -12,7 +12,6 @@ body{
   background: #09122C;
   background: -webkit-linear-gradient(135deg,#09122C, #872341);
   background: linear-gradient(135deg, #09122C, #872341);
-  overflow-x: hidden;
   font-size: 16px;
 }
 header{
@@ -24,7 +23,6 @@ header{
   display: flex;
   align-items: center;
   width: 100%;
-  max-width: 1400px;
   z-index: 1000;
 }
 .logo{
@@ -551,7 +549,7 @@ textarea {
 .foot{
   margin-top: 1em;
   width: 100%;
-  max-width: 1400px;
+ 
   background-color: #09122C;
 }
 .foot-term{
